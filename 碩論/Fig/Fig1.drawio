@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T07:49:52.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MNl2KerOWls1L0fRuCy7" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:58:31.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sy_E1oR086GfMlwxQDDH" version="20.8.20" type="github">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="S3q35cUGkQxc2vFmGl0s-1" value="DataUser" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXj0ikB4jnKrbNH409NH-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=1;comic=0;fillStyle=hatch;strokeColor=default;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yXj0ikB4jnKrbNH409NH-16" value="DataOwner" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
