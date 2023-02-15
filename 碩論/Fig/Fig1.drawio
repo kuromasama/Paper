@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T10:54:56.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2VMguLW4TioZ6W1HfALD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T11:00:31.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="C6wt_C-0trYp5WqlH4Pw" version="20.8.20" type="github">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1247" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -27,8 +27,23 @@
         <mxCell id="yXj0ikB4jnKrbNH409NH-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_recovery_functional_icon;comic=0;fillStyle=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="560" width="40.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yXj0ikB4jnKrbNH409NH-222" style="edgeStyle=elbowEdgeStyle;rounded=1;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=none;sourcePerimeterSpacing=16;targetPerimeterSpacing=15;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="70" as="targetPoint" />
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="70" />
+              <mxPoint x="640" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXj0ikB4jnKrbNH409NH-223" value="Trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="yXj0ikB4jnKrbNH409NH-222">
+          <mxGeometry x="-0.3085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-43" value="IOTA SmartContract" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#505050;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.license_manager_license_blending;shadow=0;comic=0;fillStyle=auto;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="260" y="30" width="50" height="50" as="geometry" />
+          <mxGeometry x="320" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="389" y="520" width="114" height="100" as="geometry" />
@@ -216,7 +231,7 @@
             <mxPoint x="341" y="358" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yXj0ikB4jnKrbNH409NH-203" value="PARAM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;comic=0;fillStyle=hatch;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=none;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="yXj0ikB4jnKrbNH409NH-203" value="Tx" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;comic=0;fillStyle=hatch;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="389" y="343" width="60" height="120" as="geometry">
             <mxRectangle x="389" y="343" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
