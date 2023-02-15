@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T12:06:53.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Smj_12fxtcld9I1o8Y1f" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-15T12:09:03.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6wtKb65I4aQsxKVytVu8" version="20.8.20" type="github" pages="3">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1593" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -713,6 +713,11 @@
             <mxPoint x="240" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BEVom4v1CBX6W8hKEuof-3" value="Get CID from DataOwner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="z3Bc41TFG2fxVc8xL8OT-36">
+          <mxGeometry x="0.4314" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-37" value="IOTA Tangle" style="group;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="z3Bc41TFG2fxVc8xL8OT-1">
           <mxGeometry x="274" y="240" width="141.10000000000002" height="90" as="geometry" />
         </mxCell>
@@ -806,6 +811,11 @@
               <mxPoint x="420" y="240" />
               <mxPoint x="420" y="640" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEVom4v1CBX6W8hKEuof-2" value="Encrypt &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="z3Bc41TFG2fxVc8xL8OT-67">
+          <mxGeometry x="0.2192" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-70" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=11;orthogonal=0;arcSize=20;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="z3Bc41TFG2fxVc8xL8OT-1" source="z3Bc41TFG2fxVc8xL8OT-7">
