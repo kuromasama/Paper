@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T10:30:33.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2VXWfsiSvc3S09A64Zqf" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T10:30:54.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="u0DFdOQ0SJ1lHtRm12ro" version="20.8.20" type="github">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
-    <mxGraphModel dx="869" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
+    <mxGraphModel dx="1247" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="560" width="40.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-43" value="IOTA SmartContract" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#505050;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.license_manager_license_blending;shadow=0;comic=0;fillStyle=auto;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-40" width="50" height="50" as="geometry" />
+          <mxGeometry x="260" y="30" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="550" width="114" height="100" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="370" y="370" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-180" value="IOTA Tangle" style="group;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460" y="20" width="141.10000000000002" height="90" as="geometry" />
+          <mxGeometry x="434" y="60" width="141.10000000000002" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yXj0ikB4jnKrbNH409NH-125" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;fillStyle=hatch;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=none;fillColor=default;" vertex="1" parent="yXj0ikB4jnKrbNH409NH-180">
           <mxGeometry x="100.10000000000002" y="30" width="10" height="10" as="geometry" />
