@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:15:49.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XWroTzp_o3eoDrhQNc6-" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:16:51.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HuiYeZP0N6ULj-9iuEyL" version="21.0.6" type="github" pages="4">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -838,14 +838,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oHgoubM0jT65GygysCl7" name="Ask For Access Right">
-    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OWP0wXbJUupS3pNgaBwj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=15;sourcePerimeterSpacing=15;" edge="1" parent="1" source="OWP0wXbJUupS3pNgaBwj-1" target="OWP0wXbJUupS3pNgaBwj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="000XwU2adYXQuOvFLGky-4" value="$$Request_{info}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OWP0wXbJUupS3pNgaBwj-3">
+        <mxCell id="000XwU2adYXQuOvFLGky-4" value="$$Request_{info}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="OWP0wXbJUupS3pNgaBwj-3">
           <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
