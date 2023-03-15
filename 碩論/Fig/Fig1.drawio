@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:49:23.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d7bk6ulcL8OiX30qpO7-" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-15T06:15:49.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AukvXM3J1Wpxx5cF98In" version="21.0.6" type="github" pages="4">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -853,6 +853,20 @@
         <mxCell id="OWP0wXbJUupS3pNgaBwj-1" value="DataUser" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="328" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PYDZiSLcHRkmplgnfd0J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=20;targetPerimeterSpacing=6;" edge="1" parent="1" source="wk6nJknRp0TiLOKg_u1W-4" target="wk6nJknRp0TiLOKg_u1W-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="195" />
+              <mxPoint x="140" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYDZiSLcHRkmplgnfd0J-2" value="Return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="PYDZiSLcHRkmplgnfd0J-1">
+          <mxGeometry x="0.3514" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wk6nJknRp0TiLOKg_u1W-1" value="Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;comic=0;fillStyle=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="128" y="320" width="46" height="56" as="geometry" />
         </mxCell>
@@ -886,11 +900,14 @@
         <mxCell id="wk6nJknRp0TiLOKg_u1W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=1.429;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=11;fontColor=none;targetPerimeterSpacing=6;startArrow=none;" edge="1" parent="1" target="wk6nJknRp0TiLOKg_u1W-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="152" y="550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wk6nJknRp0TiLOKg_u1W-9" value="Get CID from DataOwner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="wk6nJknRp0TiLOKg_u1W-8">
           <mxGeometry x="0.4314" y="-1" relative="1" as="geometry">
-            <mxPoint x="21" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wk6nJknRp0TiLOKg_u1W-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;fillStyle=hatch;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=none;fillColor=default;" vertex="1" parent="1">
@@ -986,12 +1003,12 @@
             <mxPoint x="220" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wk6nJknRp0TiLOKg_u1W-34" value="Re-encrypt &amp;amp; Create &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="wk6nJknRp0TiLOKg_u1W-33">
+        <mxCell id="wk6nJknRp0TiLOKg_u1W-34" value="Update Access Control file &amp;amp;&amp;nbsp;&lt;br&gt;Re-encrypt with it" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="wk6nJknRp0TiLOKg_u1W-33">
           <mxGeometry x="-0.4582" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="116" as="offset" />
+            <mxPoint x="3" y="-54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FWkSQuD4SH68kRERViA-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=6;sourcePerimeterSpacing=16;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="_FWkSQuD4SH68kRERViA-7" target="wk6nJknRp0TiLOKg_u1W-1">
+        <mxCell id="_FWkSQuD4SH68kRERViA-8" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=6;sourcePerimeterSpacing=16;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="_FWkSQuD4SH68kRERViA-7" target="wk6nJknRp0TiLOKg_u1W-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="370" as="targetPoint" />
             <Array as="points">
