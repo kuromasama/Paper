@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:12:38.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1USxrTSFCHNcgtDCBD6H" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:15:49.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XWroTzp_o3eoDrhQNc6-" version="21.0.6" type="github" pages="4">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -842,6 +842,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OWP0wXbJUupS3pNgaBwj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=15;sourcePerimeterSpacing=15;" edge="1" parent="1" source="OWP0wXbJUupS3pNgaBwj-1" target="OWP0wXbJUupS3pNgaBwj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="000XwU2adYXQuOvFLGky-4" value="$$Request_{info}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OWP0wXbJUupS3pNgaBwj-3">
+          <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWP0wXbJUupS3pNgaBwj-1" value="DataUser" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWP0wXbJUupS3pNgaBwj-2" value="Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;comic=0;fillStyle=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="82" width="46" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
