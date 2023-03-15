@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:26:35.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KjthSyetbxQkYfRZN557" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:49:23.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d7bk6ulcL8OiX30qpO7-" version="21.0.6" type="github" pages="4">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -989,6 +989,21 @@
         <mxCell id="wk6nJknRp0TiLOKg_u1W-34" value="Re-encrypt &amp;amp; Create &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" vertex="1" connectable="0" parent="wk6nJknRp0TiLOKg_u1W-33">
           <mxGeometry x="-0.4582" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="116" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_FWkSQuD4SH68kRERViA-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=6;sourcePerimeterSpacing=16;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="_FWkSQuD4SH68kRERViA-7" target="wk6nJknRp0TiLOKg_u1W-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="360" />
+              <mxPoint x="390" y="370" />
+              <mxPoint x="390" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_FWkSQuD4SH68kRERViA-11" value="Ask for consent&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="_FWkSQuD4SH68kRERViA-8">
+          <mxGeometry x="-0.4167" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_FWkSQuD4SH68kRERViA-7" value="DataOwner" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
