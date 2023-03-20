@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T10:16:49.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xPu82nrbyH1EP_U3IGRT" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-20T10:21:47.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="syhgulWbyUPNOFOS_Fhh" version="21.0.6" type="github" pages="5">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -858,7 +858,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OWP0wXbJUupS3pNgaBwj-1" value="DataUser" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
-          <mxGeometry x="660" y="328" width="30" height="40" as="geometry" />
+          <mxGeometry x="720" y="328" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PYDZiSLcHRkmplgnfd0J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=20;targetPerimeterSpacing=6;" parent="1" source="wk6nJknRp0TiLOKg_u1W-4" target="wk6nJknRp0TiLOKg_u1W-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1026,6 +1026,19 @@
             <Array as="points">
               <mxPoint x="540" y="510" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QybxCSVYGzdBc3K54sgr-2" value="8. Get Encrypted File &amp;amp;&lt;br&gt;&amp;nbsp;Decrypt with DU&#39;s Private Key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="AnPdM1XcNaIHBaVAT_3k-2">
+          <mxGeometry x="-0.4012" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QybxCSVYGzdBc3K54sgr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;" edge="1" parent="1" source="AnPdM1XcNaIHBaVAT_3k-1" target="OWP0wXbJUupS3pNgaBwj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QybxCSVYGzdBc3K54sgr-4" value="9. Show Decrypted &lt;br&gt;Data File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="QybxCSVYGzdBc3K54sgr-3">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnPdM1XcNaIHBaVAT_3k-1" value="Data User&#39;s Computer" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;comic=0;fillStyle=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
