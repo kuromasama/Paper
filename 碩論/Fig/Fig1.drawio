@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T10:24:44.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zbEpL-xjRmmXeIjJSvd2" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-20T10:26:00.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M7GDK3OB9-ShCBHbOYYc" version="21.0.6" type="github" pages="5">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -710,12 +710,16 @@
         </mxCell>
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=1.429;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=11;fontColor=none;targetPerimeterSpacing=6;startArrow=none;" parent="z3Bc41TFG2fxVc8xL8OT-1" target="z3Bc41TFG2fxVc8xL8OT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="630" as="sourcePoint" />
+            <mxPoint x="420" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="540" />
+              <mxPoint x="172" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BEVom4v1CBX6W8hKEuof-3" value="Get CID from DataOwner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-36" vertex="1" connectable="0">
+        <mxCell id="BEVom4v1CBX6W8hKEuof-3" value="2. Get CID from DataOwner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-36" vertex="1" connectable="0">
           <mxGeometry x="0.4314" y="-1" relative="1" as="geometry">
-            <mxPoint x="21" as="offset" />
+            <mxPoint x="84" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-37" value="IOTA Tangle" style="group;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="z3Bc41TFG2fxVc8xL8OT-1" vertex="1" connectable="0">
@@ -813,7 +817,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BEVom4v1CBX6W8hKEuof-2" value="Encrypt &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-67" vertex="1" connectable="0">
+        <mxCell id="BEVom4v1CBX6W8hKEuof-2" value="1. Encrypt &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-67" vertex="1" connectable="0">
           <mxGeometry x="0.2192" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
