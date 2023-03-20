@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T10:26:00.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M7GDK3OB9-ShCBHbOYYc" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-20T10:36:00.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EcxXxzLT-XOteFzLxsgF" version="21.0.6" type="github" pages="5">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DataUploading 的副本" id="x3cwqy6lyj8LIx2Hl34_">
-    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2261" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-0" />
         <mxCell id="z3Bc41TFG2fxVc8xL8OT-1" parent="z3Bc41TFG2fxVc8xL8OT-0" />
@@ -600,7 +600,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z3Bc41TFG2fxVc8xL8OT-6" value="Trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=none;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-5" vertex="1" connectable="0">
+        <mxCell id="z3Bc41TFG2fxVc8xL8OT-6" value="4. Trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=none;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3085" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -802,7 +802,7 @@
             <mxPoint x="201" y="428" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BEVom4v1CBX6W8hKEuof-1" value="Send Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-59" vertex="1" connectable="0">
+        <mxCell id="BEVom4v1CBX6W8hKEuof-1" value="3. Send Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-59" vertex="1" connectable="0">
           <mxGeometry x="-0.1705" y="-1" relative="1" as="geometry">
             <mxPoint x="-17" y="-1" as="offset" />
           </mxGeometry>
@@ -833,9 +833,14 @@
             <mxPoint x="240" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BEVom4v1CBX6W8hKEuof-0" value="Re-encrypt &amp;amp; Create &amp;amp; Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-70" vertex="1" connectable="0">
+        <mxCell id="BEVom4v1CBX6W8hKEuof-0" value="5. Get and Re-encrypt and Upload&lt;br&gt;&amp;nbsp; Data File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBorderColor=default;" parent="z3Bc41TFG2fxVc8xL8OT-70" vertex="1" connectable="0">
           <mxGeometry x="-0.4582" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="116" as="offset" />
+            <mxPoint x="13" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYslPfwFWVwun08Q78mb-1" value="6. Create and Update&lt;br&gt;&amp;nbsp;Access Control Policy &amp;amp; Data Store Structrue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="z3Bc41TFG2fxVc8xL8OT-70">
+          <mxGeometry x="-0.3083" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
