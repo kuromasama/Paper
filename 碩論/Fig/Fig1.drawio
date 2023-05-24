@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:45:41.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1aibSz_hHs-mPFKh8SYU" version="21.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:51:54.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nWeINMwTvmHovgfIZhi5" version="21.2.1" type="github" pages="9">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -1728,7 +1728,7 @@
         <mxCell id="jCohOdO50bMCfVecjoCe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=12;sourcePerimeterSpacing=12;startArrow=classic;startFill=1;" edge="1" parent="1" source="zWT7934PCnmWGIC87VZz-1" target="hQnwQa6BKHlNTHuIeKiZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCohOdO50bMCfVecjoCe-8" value="$$\{IPNS_f,CID_0\}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="jCohOdO50bMCfVecjoCe-1">
+        <mxCell id="jCohOdO50bMCfVecjoCe-8" value="$$(IPNS_f,CID_0)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="jCohOdO50bMCfVecjoCe-1">
           <mxGeometry x="-0.6262" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2114,8 +2114,14 @@
         <mxCell id="auCZwa_zU_XAUXj668iN-23" value="$$BPK_{CSPs}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_vpn_key_48px-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="537" width="38.5" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="auCZwa_zU_XAUXj668iN-31" value="$$\{IPNS_f,CID_0,Sign(sk_{GDO_1})&lt;br&gt;\}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="auCZwa_zU_XAUXj668iN-31" value="$$(IPNS_f,CID_0,Sign(sk_{GDO_1},CID_0)&lt;br&gt;)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="48.0042857142858" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="auCZwa_zU_XAUXj668iN-32" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="171" y="142.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="CdIi5p_P2x3aQLrHtG6p-3" value="$$Tx: IoTDeviceRegisting(CID_0,Sign(sk_{GDO_1},CID_0)&lt;br&gt;)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290.0042857142858" y="-70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
