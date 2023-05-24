@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T09:56:16.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OCqGA5MkP52ipTsvY30v" version="21.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-05-24T09:59:39.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xpShLsMN9AMuAISBAz35" version="21.2.1" type="github" pages="9">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -1486,7 +1486,7 @@
         <mxCell id="XiOWaWa-LwIJfFEw35wC-34" value="$$PK_{DO}(sk_{GDO_1})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="570" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XiOWaWa-LwIJfFEw35wC-35" value="$$Sign(sk_{GDO_1}, hash(f))$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-35" value="$$Sign(sk_{GDO_1})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="570" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XiOWaWa-LwIJfFEw35wC-36" value="" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;shadow=0;fillColor=none;" vertex="1" parent="1">
