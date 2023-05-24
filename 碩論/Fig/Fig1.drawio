@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:44:37.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EyhwBP0xLz5AGwoHmS2o" version="21.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:45:41.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1aibSz_hHs-mPFKh8SYU" version="21.2.1" type="github" pages="9">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -1745,7 +1745,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="auCZwa_zU_XAUXj668iN-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="zWT7934PCnmWGIC87VZz-1" target="auCZwa_zU_XAUXj668iN-1">
+        <mxCell id="auCZwa_zU_XAUXj668iN-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=classic;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1" source="zWT7934PCnmWGIC87VZz-1" target="auCZwa_zU_XAUXj668iN-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="-30" />
@@ -2113,12 +2113,6 @@
         </mxCell>
         <mxCell id="auCZwa_zU_XAUXj668iN-23" value="$$BPK_{CSPs}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_vpn_key_48px-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="537" width="38.5" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="auCZwa_zU_XAUXj668iN-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="-60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="auCZwa_zU_XAUXj668iN-24" value="$$BPK$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_vpn_key_48px-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-50" width="38.5" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="auCZwa_zU_XAUXj668iN-31" value="$$\{IPNS_f,CID_0,Sign(sk_{GDO_1})&lt;br&gt;\}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="48.0042857142858" y="150" as="geometry" />
