@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:53:52.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="h1PiacpXnajLAiTqoQmL" version="21.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:17:32.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wxHES0z38kjZ-1ZglZZo" version="21.2.1" type="github" pages="7">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -1342,7 +1342,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G3fg_6x-Nlv8TfT8bSSU-1" value="DataOwner" style="shape=actor;whiteSpace=wrap;html=1;comic=0;shadow=1;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
-          <mxGeometry x="568.75" y="150" width="30" height="40" as="geometry" />
+          <mxGeometry x="573.5" y="130" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G3fg_6x-Nlv8TfT8bSSU-2" value="IoT Device 1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;comic=0;fillStyle=auto;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="487.5" y="276" width="45" height="56" as="geometry" />
@@ -1433,10 +1433,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XiOWaWa-LwIJfFEw35wC-1" value="$$sk_{DO}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
-          <mxGeometry x="632" y="190" width="26" height="26" as="geometry" />
+          <mxGeometry x="636.75" y="170" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XiOWaWa-LwIJfFEw35wC-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{DO}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="632" y="157" width="26" height="26" as="geometry" />
+          <mxGeometry x="636.75" y="137" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-3" value="$$sk_{GDO_1}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="405" y="307.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{GDO_1}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="406" y="274.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-7" value="$$sk_{GDO_n}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="713" y="306" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{GDO_n}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="714" y="273" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-12" value="CSPs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-15" value="" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="940" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-22" value="$$CID_1$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-25" value="$$\{{a_i}\}$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-26" value="" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-27" value="$$PK_{GDO_1}(k)$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-28" value="$$enc(k,f)$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XiOWaWa-LwIJfFEw35wC-29" value="$$info_f$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
