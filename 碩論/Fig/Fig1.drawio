@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:48:57.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LOGF_OMB35e9zlv0SotW" version="21.3.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-25T10:36:52.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-4L5jan2YAmhXL-ntWs8" version="21.3.3" type="github" pages="11">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -2385,15 +2385,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WMe7oPvwHyqG-Rhd4lUA" name="DUGroupRegisting">
-    <mxGraphModel dx="2022" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2876" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G28yymbMyli_b-TKGWQs-2" value="$$DUGroup$$(Like a company)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="390" width="610" height="530" as="geometry" />
+          <mxGeometry x="390" y="-40" width="630" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-1" value="$$IPFS$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="660" width="1190" height="200" as="geometry" />
+        <mxCell id="G28yymbMyli_b-TKGWQs-1" value="$$DUGinIPFS$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="660" width="1380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=12;sourcePerimeterSpacing=12;startArrow=classic;startFill=1;" edge="1" parent="1" source="G28yymbMyli_b-TKGWQs-7" target="G28yymbMyli_b-TKGWQs-72">
           <mxGeometry relative="1" as="geometry" />
@@ -2467,7 +2467,7 @@
           <mxGeometry x="406" y="274.5" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="742" y="150" width="56" height="60.2927181344825" as="geometry" />
+          <mxGeometry x="890" y="-20" width="56" height="60.2927181344825" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-39" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=none;size=11;" vertex="1" parent="G28yymbMyli_b-TKGWQs-38">
           <mxGeometry x="-13.02" width="63.02" height="30" as="geometry" />
@@ -2478,10 +2478,10 @@
         <mxCell id="G28yymbMyli_b-TKGWQs-41" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.icon3;" vertex="1" parent="G28yymbMyli_b-TKGWQs-40">
           <mxGeometry x="1" y="1" width="16.20125786163522" height="18.21721884462312" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{DO}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="G28yymbMyli_b-TKGWQs-40">
+        <mxCell id="G28yymbMyli_b-TKGWQs-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{DUA}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="G28yymbMyli_b-TKGWQs-40">
           <mxGeometry x="13.340880503144653" y="14.234552557390577" width="11.740077141264157" height="11.740077141264157" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-43" value="$$sk_{GDO_n}$$" style="shape=image;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;fontSize=5;html=1;" vertex="1" parent="G28yymbMyli_b-TKGWQs-38">
+        <mxCell id="G28yymbMyli_b-TKGWQs-43" value="$$sk_{GDU}$$" style="shape=image;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;fontSize=5;html=1;" vertex="1" parent="G28yymbMyli_b-TKGWQs-38">
           <mxGeometry x="-13.511627906976745" y="7.55653903679329" width="15.337395238020266" height="15.337395238020266" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-55" value="IOTA M2M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
@@ -2490,19 +2490,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-56" value="" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;shadow=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="740" width="980" height="50" as="geometry" />
+          <mxGeometry x="-7.5" y="740" width="1157.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-57" value="$$CID_0$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="740" width="50" height="50" as="geometry" />
+          <mxGeometry x="-7.5" y="740" width="57.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-58" value="$$\{{a_i}\}$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="740" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-59" value="File f in IPFS" style="text;strokeColor=default;fillColor=none;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;html=1;fontFamily=Garamond;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="740" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-60" value="$$info_f$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="740" width="77.5" height="50" as="geometry" />
+        <mxCell id="G28yymbMyli_b-TKGWQs-59" value="File f Group Can Access" style="text;strokeColor=default;fillColor=none;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;html=1;fontFamily=Garamond;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="G28yymbMyli_b-TKGWQs-62" target="G28yymbMyli_b-TKGWQs-57">
           <mxGeometry relative="1" as="geometry" />
@@ -2510,29 +2504,26 @@
         <mxCell id="G28yymbMyli_b-TKGWQs-62" value="$$IPNS_f$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-167.5" y="740" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-63" value="$$BPK_{CSPs}\{tk_{GDO_1\rightarrow DO}\}$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="740" width="170" height="50" as="geometry" />
+        <mxCell id="G28yymbMyli_b-TKGWQs-63" value="$$BPK_{CSPs}(tk_{GDU\rightarrow DUA}, \{tk_{GDU\rightarrow DU_{m_i}}\}^{n-1}_1)$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="257.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-64" value="$$PK_{DO}(sk_{GDO_1})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="740" width="170" height="50" as="geometry" />
+        <mxCell id="G28yymbMyli_b-TKGWQs-64" value="$$PK_{DUA}(sk_{GDU})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-65" value="$$Sign(sk_{GDO_1})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="772.5" y="740" width="200" height="50" as="geometry" />
+          <mxGeometry x="960" y="560" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-66" value="Root" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;fontFamily=Garamond;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
-          <mxGeometry x="772.5" y="740" width="200" height="50" as="geometry" />
+          <mxGeometry x="960" y="560" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-67" value="$$\{ID_{DO}\}$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="740" width="120" height="50" as="geometry" />
+        <mxCell id="G28yymbMyli_b-TKGWQs-67" value="$$\{ID_{DUA},ID_{DU_{m_1}}...ID_{DU_{m_{n-1}}}\}$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="740" width="212.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-68" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Garamond&quot;&gt;Access Control Policy&lt;/font&gt;" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="740" width="290" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-69" value="Attrs" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;fontFamily=Garamond;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="740" width="50" height="50" as="geometry" />
+          <mxGeometry x="360" y="740" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-70" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Garamond&quot;&gt;Key of Group&lt;/font&gt;" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="740" width="170" height="50" as="geometry" />
+          <mxGeometry x="830.5" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-71" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="276" y="550" width="114" height="100" as="geometry" />
@@ -2544,10 +2535,10 @@
           <mxGeometry y="18" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-74" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="459.5" y="317" width="20" height="804" as="geometry" />
+          <mxGeometry x="553" y="223.5" width="20" height="991" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-75" value="$$Reg_{in}$$" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="64" height="30" as="geometry" />
+          <mxGeometry x="532.5" y="670" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-76" value="$$Reg_{in}$$" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="439" width="64" height="30" as="geometry" />
@@ -2684,7 +2675,7 @@
           <mxGeometry x="-462.5" y="-50" width="265" height="306.5" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-118" value="$$(PK_{GDO_n},ID_{GDO_n})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="170" y="740" width="142.5" height="50" as="geometry" />
+          <mxGeometry x="50" y="740" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-119" value="Map" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-420" y="-1.7763568394002505e-15" width="180" height="195.21000000000004" as="geometry" />
@@ -2788,6 +2779,21 @@
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-158" value="$$sk_{DU_{m_{n}}}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
           <mxGeometry x="874.5" y="302.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cN9DaCIH9c37By12FbUC-19" value="$$(PK_{GDU},ID_{GDU})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fnsbsI21mvCD_t7XuLyx-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$PK_{GDU}$$&lt;/font&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/key-128.png;labelPosition=right;align=left;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="37.000000000000014" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fnsbsI21mvCD_t7XuLyx-12" value="$$sk_{GDU}$$" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/key-fill-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="70" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fnsbsI21mvCD_t7XuLyx-13" value="DU Group in IPFS" style="text;strokeColor=default;fillColor=none;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;html=1;fontFamily=Garamond;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fnsbsI21mvCD_t7XuLyx-14" value="$$Sign(sk_{GDU})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="740" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
