@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T11:42:42.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="caZ_ZoW7ZQAbaKS75hDx" version="21.3.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:50:01.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e8eYcRgxP3vnzSEr4YLm" version="21.3.3" type="github" pages="13">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -2229,7 +2229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WMe7oPvwHyqG-Rhd4lUA" name="DUGroupRegisting">
-    <mxGraphModel dx="2261" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2876" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2668,7 +2668,7 @@
           <mxGeometry x="390" y="-40" width="630" height="170" as="geometry" />
         </mxCell>
         <mxCell id="f1VVpcFolqF4Iq5DXgXf-3" value="DUG of file list in IPFS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="f1VVpcFolqF4Iq5DXgXf-1">
-          <mxGeometry x="-312" y="1010" width="1380" height="200" as="geometry" />
+          <mxGeometry x="-312" y="1010" width="1380" height="370" as="geometry" />
         </mxCell>
         <mxCell id="f1VVpcFolqF4Iq5DXgXf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=12;sourcePerimeterSpacing=12;startArrow=classic;startFill=1;" edge="1" parent="f1VVpcFolqF4Iq5DXgXf-1" source="f1VVpcFolqF4Iq5DXgXf-8" target="f1VVpcFolqF4Iq5DXgXf-21">
           <mxGeometry relative="1" as="geometry" />
@@ -2884,7 +2884,7 @@
             <mxRectangle width="90" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f1VVpcFolqF4Iq5DXgXf-67" value="$$CID_{0}$$" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="f1VVpcFolqF4Iq5DXgXf-65">
+        <mxCell id="f1VVpcFolqF4Iq5DXgXf-67" value="$$CID_{n_0}$$" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="f1VVpcFolqF4Iq5DXgXf-65">
           <mxGeometry x="90" width="90" height="50" as="geometry">
             <mxRectangle width="90" height="50" as="alternateBounds" />
           </mxGeometry>
