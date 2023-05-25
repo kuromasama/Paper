@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T11:18:35.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FevTBYLS_zbXsvPQ5qhj" version="21.3.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:21:02.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nyGPG7VVMTg2YzjjTwT6" version="21.3.3" type="github" pages="13">
   <diagram name="第 1 页" id="0Bb90YlJC23ZNc2bx1gv">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -2146,7 +2146,7 @@
         <mxCell id="CdIi5p_P2x3aQLrHtG6p-15" value="$$(PK_{GDO_n},ID_{GDO_n})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="170" y="740" width="142.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CdIi5p_P2x3aQLrHtG6p-26" value="Map" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="CdIi5p_P2x3aQLrHtG6p-26" value="DO Map" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-1.7763568394002505e-15" width="180" height="195.21000000000004" as="geometry" />
         </mxCell>
         <mxCell id="CdIi5p_P2x3aQLrHtG6p-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;swimlaneFillColor=default;" parent="CdIi5p_P2x3aQLrHtG6p-26" vertex="1">
@@ -2442,7 +2442,7 @@
         <mxCell id="G28yymbMyli_b-TKGWQs-117" value="$$Ledger$$" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;arcSize=17;" vertex="1" parent="1">
           <mxGeometry x="-462.5" y="-50" width="265" height="306.5" as="geometry" />
         </mxCell>
-        <mxCell id="G28yymbMyli_b-TKGWQs-119" value="Map" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="G28yymbMyli_b-TKGWQs-119" value="DO Map" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-420" y="-1.7763568394002505e-15" width="180" height="195.21000000000004" as="geometry" />
         </mxCell>
         <mxCell id="G28yymbMyli_b-TKGWQs-120" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;swimlaneFillColor=default;" vertex="1" parent="G28yymbMyli_b-TKGWQs-119">
@@ -2556,6 +2556,12 @@
         </mxCell>
         <mxCell id="CyZ8wjF6bJFdhQPadYyP-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Garamond&quot;&gt;Key of Group&lt;/font&gt;" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="767.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKlmZh7Y42jednoygST-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="361.88" y="560" width="20" height="381.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKlmZh7Y42jednoygST-2" value="$$Reg_{in}$$" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.88" y="701.75" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2902,7 +2908,7 @@
           <mxGeometry x="451.5" y="358" width="20" height="930" as="geometry" />
         </mxCell>
         <mxCell id="f1VVpcFolqF4Iq5DXgXf-101" value="$$Reg_{in}$$" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f1VVpcFolqF4Iq5DXgXf-1">
-          <mxGeometry x="400.5" y="774" width="64" height="30" as="geometry" />
+          <mxGeometry x="431.5" y="774" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f1VVpcFolqF4Iq5DXgXf-102" value="$$(PK_{GDO_n},ID_{GDO_n})$$" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=middle;horizontal=1;dashed=1;dashPattern=1 4;" vertex="1" parent="f1VVpcFolqF4Iq5DXgXf-1">
           <mxGeometry x="-82" y="844" width="160" height="50" as="geometry" />
